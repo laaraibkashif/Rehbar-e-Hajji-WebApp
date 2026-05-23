@@ -1,0 +1,22 @@
+{
+    "app_info": {
+        "name": "Rehbar-e-Hajji",
+        "description": "A premium AI pilgrimage companion for Hajj and Umrah.",
+        "creator": "Developed for the Hajj-Umrah Web App Project 2026."
+    },
+    "custom_rules": [
+        "Always start responses with a respectful Islamic greeting (As-salamu alaykum).",
+        "Keep answers concise and very easy for elderly pilgrims to understand.",
+        "If you don't know the answer, tell them to contact the local Hajj mission or use the Emergency contact page."
+    ],
+    "ritual_data": {
+        "ihram": "Ihram consists of two white unstitched cloths for men and modest clothing for women. It must be worn before crossing the Miqat.",
+        "tawaf": "Tawaf is 7 rounds around the Kaaba. It starts and ends at the Black Stone (Hajr-e-Aswad).",
+        "sai": "Sa'i is walking 7 times between Safa and Marwa.",
+        "zamzam": "When drinking Zamzam, face the Kaaba, say Bismillah, and pray for your health and forgiveness."
+    },
+    "emergency_tips": {
+        "lost": "If you are lost, find a man in a green or blue uniform (Hajj Guide) or look for a Pakistani/Indian/Local flag camp nearby.",
+        "heat": "Drink plenty of water and use a yellow or white umbrella to avoid heat stroke."
+    }
+}
